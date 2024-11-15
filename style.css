@@ -1,0 +1,42 @@
+#heading1 {
+    font-family: Georgia, serif;
+    text-decoration: underline;
+    font-weight: bold;
+    color: #000000
+}
+
+#headingFunny {
+    font-family: Georgia, serif;
+    font-style: italic;
+    color:seagreen;
+}
+
+#catCute {
+    height: 75px;
+    width: 75px;
+}
+
+#introHeading {
+    font-family: Georgia, serif;
+    font-style: italic;
+    color: darkblue;
+}
+
+#list {
+    font-family: Georgia, serif;
+    font-style: italic;
+    color: crimson; 
+    background-color: lightpink;
+}
+
+#body { 
+    background-color: antiquewhite;
+}
+
+#hackClub {
+    position: absolute;
+    top: 430px;
+    left: 110px;
+    height: 75px;
+    width: 75px;
+}
